@@ -1,0 +1,18 @@
+<framework>
+    <execution>
+        <clock enable="true" unit="hz" value="100" />
+    </execution>
+
+    <modulesToEnable>
+        <module logLevel="WARN">ogre_window_manager</module>
+        <module>object_renderer</module>
+    </modulesToEnable>
+
+    <module>
+        <name>ogre_window_manager</name>
+    </module>
+
+    <module>
+        <name>object_renderer</name>
+    </module>
+</framework>

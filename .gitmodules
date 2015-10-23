@@ -1,3 +1,9 @@
 [submodule "LMS"]
 	path = LMS
 	url = https://github.com/Phibedy/LMS
+[submodule "external/libraries/ogre_binding"]
+	path = external/libraries/ogre_binding
+	url = https://github.com/lms-org/ogre_binding.git
+[submodule "external/modules/ogre_window_manager"]
+	path = external/modules/ogre_window_manager
+	url = https://github.com/lms-org/ogre_window_manager.git
